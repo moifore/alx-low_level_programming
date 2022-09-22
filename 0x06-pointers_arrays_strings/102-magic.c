@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - program prints a[2] = 98
+ * main - Adds one line to code to print
+ *to stdio a[2] = 98
  *
  * Return: Always 0 (Sucess)
  */
